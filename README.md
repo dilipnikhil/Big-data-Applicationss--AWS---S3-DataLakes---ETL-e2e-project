@@ -1,6 +1,6 @@
-# PROJECT folder overview
+# PROJECT  overview
 
-This README summarizes the contents of `PROJECT.zip/PROJECT` under `FA24_ BIG DATA APPLICATIONS_ 12555`.
+This README summarizes a project that I worked on as part of Big Data Applications coursework.
 
 ## Structure
 - `Additional_Feature_Eng.ipynb` — notebook for feature engineering steps.
